@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [alibabaei.info](alibabaei.info)
+- 👨‍💻 All of my projects are available at [alibabaei.info](https://www.alibabaei.info)
 
 - 💬 Ask me about **ReactJs**
 
