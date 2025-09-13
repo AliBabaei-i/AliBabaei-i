@@ -15,7 +15,7 @@
 </p>
 <p align="left">
   <a href="https://t.me/alibabaei_i" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram-alt.svg" alt="Telegram" height="30" width="40" />
   </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
