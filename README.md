@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [alibabaei.info](alibabaei.info)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **alibabaeidev@gmail.com**
 
